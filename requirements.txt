@@ -1,0 +1,6 @@
+py==1.10.0
+pytest==6.2.1
+python-dateutil==2.8.0
+Pillow==8.2.0
+plotly==3.7.1
+
